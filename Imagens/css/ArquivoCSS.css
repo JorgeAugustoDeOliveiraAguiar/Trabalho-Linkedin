@@ -1,0 +1,394 @@
+#fundo{
+	font-size: 20px; 
+	background-color: #F5F5F5; /*#F5F5F5;*/
+}
+
+#quebra{
+    white-space: nowrap;
+}
+
+.navegação{
+background-color: #283E4A;
+font-size: 10%;
+position: fixed;
+top: 0px;
+left: 0px;
+width: 1920px;
+height: 55px
+}
+
+.ftperfil{
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	border-style: solid;
+	border-color: white;
+	position: absolute;
+	
+	box-shadow: 0 1px 9px 1px; color: gray;
+
+	top: 205px;
+	left: 690px;
+}
+
+.capa{
+	width: 860px;
+	height: 192px;
+	position: absolute;
+    top: 95px; 
+    left: 330px;
+
+    border-style: solid;
+    border-color: gray;
+    border-top-width: 1.5px; 
+    border-bottom-width: 0px;
+    border-right-width: 1px;
+    border-left-width: 1px; 
+}
+
+.capa-dois img{
+	position: absolute;
+    top: 180px; 
+    left: 330px;
+    width: 860px;
+    height: 330px;
+    
+    border-style: solid;
+    border-color: gray;
+    border-top-width: 0px;
+    border-bottom-width: 1px;
+    border-right-width: 1px;
+    border-left-width: 1px; 
+
+}
+
+.texto p{
+	position: absolute;
+	top: 345px;
+	left: 690px;
+	font-size: 25px;
+	font-style: normal;
+	font-family: Segoe UI;
+	font-weight: 400;  
+}
+
+.apresentação p{
+	position: absolute;
+	top: 390px;
+	left: 710px;
+	font-size: 20px;
+	font-style: normal;
+	font-family: Segoe UI;
+	font-weight: 400;
+}
+
+.texto-dois p{
+	position: absolute;
+	top: 430px;
+	left: 647px;
+	font-size: 17px;
+	font-style: normal;
+	font-family: Segoe UI;
+	font-weight: 200;
+
+}
+
+.texto-tres p{
+	position: absolute;
+	top: 455px;
+	left: 685px;
+	font-size: 17px;
+	font-style: normal;
+	font-family: Segoe UI;
+	font-weight: 200;
+}
+ 
+#txtBusca{
+	position: absolute;
+	top: 11px;
+	left: 27px;
+	margin-top: -11px;
+	background-color:transparent;
+	font-style:normal;
+	font-size:18px;
+	border:none;
+	height:31px;
+	width:253px;
+}
+
+#divBusca{
+  position: fixed;
+  top: 10px;
+  background-color:#E1E9EE;
+  border:solid 1px;
+  border-radius:3px;  
+  width:280px;
+  height: 33px;
+}
+
+.graduaçãobox img{
+
+	position: absolute;
+    top: 550px; 
+    left: 330px;
+    width: 860px;
+    height: 150px;
+    
+    border-style: solid;
+    border-color: gray;
+    border-top-width: 1px;
+    border-bottom-width: 1px;
+    border-right-width: 1px;
+    border-left-width: 1px; 
+}
+.graduaçãobox p{
+
+position: absolute;
+    top: 535px; 
+    left: 350px;
+    font-size: 23px;
+	font-style: normal;
+	font-family: Segoe UI;
+	font-weight: 400;
+}
+.graduação-um img{
+	position: absolute;
+    width: 80px;
+    height: 80px;
+    top: 600px; 
+    left: 340px;
+
+}
+
+.graduação-um-istituição p{
+	position: absolute;
+    top: 590px; 
+    left: 430px;
+    font-size: 17px;
+	font-style: normal;
+	font-family: Segoe UI;
+	font-weight: 400;
+}
+
+.graduação-um-curso p{
+	position: absolute;
+    top: 615px; 
+    left: 430px;
+    font-size: 17px;
+	font-style: normal;
+	font-family: Segoe UI;
+	font-weight: 300;
+}
+
+.graduação-um-data p{
+	position: absolute;
+    top: 640px; 
+    left: 430px;
+    font-size: 17px;
+	font-style: normal;
+	font-family: Segoe UI;
+	font-weight: 300;
+
+}
+
+.graduação-dois-box img{
+
+	position: absolute;
+    top: 700px; 
+    left: 330px;
+    width: 860px;
+    height: 150px;
+    
+    border-style: solid;
+    border-color: gray;
+    border-top-width: 1px;
+    border-bottom-width: 1px;
+    border-right-width: 1px;
+    border-left-width: 1px; 
+}
+
+.graduação-dois img{
+	position: absolute;
+    top: 745px;
+    left: 340px;
+}
+
+.graduação-dois-istituição p{
+	position: absolute;
+    top: 720px; 
+    left: 430px;
+    font-size: 17px;
+	font-style: normal;
+	font-family: Segoe UI;
+	font-weight: 400;
+}
+
+.graduação-dois-curso p{
+	position: absolute;
+    top: 750px; 
+    left: 430px;
+    font-size: 17px;
+	font-style: normal;
+	font-family: Segoe UI;
+	font-weight: 300;
+}
+
+.graduação-tres-box img{
+
+	position: absolute;
+    top: 840px; 
+    left: 330px;
+    width: 860px;
+    height: 150px;
+    
+    border-style: solid;
+    border-color: gray;
+    border-top-width: 1px;
+    border-bottom-width: 1px;
+    border-right-width: 1px;
+    border-left-width: 1px; 
+}
+
+.graduação-tres img{
+	position: absolute;
+    top: 885px; 
+    left: 340px;
+}
+
+.graduação-tres-instituição p{
+	position: absolute;
+    top: 860px; 
+    left: 430px;
+	font-size: 17px;
+	font-style: normal;
+	font-family: Segoe UI;
+	font-weight: 400;
+
+}
+
+.graduação-tres-curso p{
+
+	position: absolute;
+    top: 890px; 
+    left: 430px;
+    font-size: 17px;
+	font-style: normal;
+	font-family: Segoe UI;
+	font-weight: 300;
+
+}
+
+.competencias-box img{
+
+	position: absolute;
+    top: 1030px; 
+    left: 330px;
+    width: 860px;
+    height: 120px;
+    
+    border-style: solid;
+    border-color: gray;
+    border-top-width: 1px;
+    border-bottom-width: 1px;
+    border-right-width: 1px;
+    border-left-width: 1px;
+
+}
+
+.competencias-box p{
+	position: absolute;
+    top: 1012.5px; 
+    left: 350px;
+    font-size: 23px;
+	font-style: normal;
+	font-family: Segoe UI;
+    font-weight: 400;
+
+}
+
+.competencias-um p{
+
+	position: absolute;
+    top: 1070px; 
+    left: 365px;
+    font-size: 17px;
+	font-style: normal;
+	font-family: Segoe UI;
+	font-weight: 500;
+
+}
+
+.competencias-dois-box img{
+	position: absolute;
+    top: 1130px; 
+    left: 330px;
+    width: 860px;
+    height: 89px;    
+    border-style: solid;
+    border-color: gray;
+    border-top-width: 1px;
+    border-bottom-width: 1px;
+    border-right-width: 1px;
+    border-left-width: 1px;
+
+}
+
+.competencias-dois p{
+	position: absolute;
+    top: 1140px; 
+    left: 365px;
+    font-size: 17px;
+	font-style: normal;
+	font-family: Segoe UI;
+	font-weight: 500;
+
+}
+
+.competencias-tres-box img{
+	position: absolute;
+    top: 1210px; 
+    left: 330px;
+    width: 860px;
+    height: 80px;
+    
+    border-style: solid;
+    border-color: gray;
+    border-top-width: 1px;
+    border-bottom-width: 1px;
+    border-right-width: 1px;
+    border-left-width: 1px;
+
+    margin-bottom: 20px;
+
+    }
+
+.competencias-tres p{
+	position: absolute;
+    top: 1220px; 
+    left: 365px;
+    font-size: 17px;
+	font-style: normal;
+	font-family: Segoe UI;
+	font-weight: 500;
+
+}
+
+.rodapé img{
+    border-style: solid;
+    border-color: #D9DADC;
+    border-top-width: 0.5px;
+    border-right: 0px;
+    border-left: 0px;
+    border-bottom: 0px; 
+    padding-top: 10px;
+}
+
+.links {
+    text-decoration: none;
+    color: #495D6E;
+    position: absolute;
+    font-size: 15px;
+}
+a.links:hover {
+    color: #0091CA;
+}
